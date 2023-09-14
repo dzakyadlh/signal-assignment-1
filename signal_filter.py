@@ -26,8 +26,8 @@ def myFFT(v):
         return F
 
 # ID
-print("Nama: Achmadi ST MT")
-print("NRP: 2410100085")
+print("Nama: Dzaky Adla Hikmatiyar")
+print("NRP: 5009201005")
 
 # X array linear spacing
 X = np.arange(0,1,1.0/128)
